@@ -34,27 +34,27 @@ Linux 서버 운영 경험을 바탕으로
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwindcss)
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend / Language
 ![Java](https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat&logo=springboot)
 ![JSP](https://img.shields.io/badge/JSP-111111?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-111111?style=flat&logo=cplusplus)
 
 ---
 
 ### 🗄️ Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-111111?style=flat&logo=mariadb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-111111?style=flat&logo=redis)
 
 ---
@@ -66,7 +66,7 @@ Linux 서버 운영 경험을 바탕으로
 
 ---
 
-### 🧰 DevOps & Tools
+### 🧰 DevOps
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker)
 ![Portainer](https://img.shields.io/badge/Portainer-111111?style=flat&logo=portainer)
@@ -74,12 +74,32 @@ Linux 서버 운영 경험을 바탕으로
 
 ---
 
-### 🧑‍💻 IDE & Utilities
+### 🧑‍💻 IDE & Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=flat&logo=intellijidea)
 ![Eclipse](https://img.shields.io/badge/Eclipse-111111?style=flat&logo=eclipseide)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visualstudiocode)
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-111111?style=flat&logo=visualstudio)
 ![WebStorm](https://img.shields.io/badge/WebStorm-111111?style=flat&logo=webstorm)
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat&logo=postman)
+
+---
+
+## 📂 Projects & Experience
+
+### 🧠 개인 서버 기반 백엔드 운영
+- Docker 기반 서비스 실행 환경 구성 및 관리
+- Portainer를 활용한 컨테이너 상태 모니터링
+- Linux 서버 사용자 분리 및 SSH 접근 제어
+- 로그 확인, 프로세스 관리 등 **운영 단계 작업 직접 수행**
+
+### 🎮 Minecraft 서버 운영 (개인 프로젝트)
+- Docker 환경에서 서버 구성 및 실행
+- 플러그인 관리 및 충돌 최소화를 위한 구조 설계
+- 장기 운영을 고려한 데이터 및 설정 관리
+
+### ⚙️ API 중심 백엔드 개발
+- Spring Boot 기반 REST API 설계 및 구현
+- 인증/인가(JWT, Session, OAuth2) 구조 설계
+- 유지보수와 확장성을 고려한 코드 구조 개선
 
 ---
 
